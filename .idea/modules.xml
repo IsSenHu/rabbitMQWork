@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rabbitMQHibernateTalkRoom/rabbitMQHibernateTalkRoom.iml" filepath="$PROJECT_DIR$/rabbitMQHibernateTalkRoom/rabbitMQHibernateTalkRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitMQRedisTalkRoom/rabbitMQRedisTalkRoom.iml" filepath="$PROJECT_DIR$/rabbitMQRedisTalkRoom/rabbitMQRedisTalkRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitMQWork.iml" filepath="$PROJECT_DIR$/rabbitMQWork.iml" />
+    </modules>
+  </component>
+</project>
